@@ -4,7 +4,7 @@
     "type": "project",
     "require": {
         "php": ">=5.4",
-        "gd": "*",
+        "ext-gd": "*",
         "symfony/symfony": "~2.8.6",
         "defuse/php-encryption": "~2.0.1",
         "doctrine/dbal": "~2.5.3",
